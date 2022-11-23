@@ -55,7 +55,7 @@ Este repositório contempla algumas animações feitas com o P5.js, e com o Proc
     - <img src="https://i.imgur.com/zQn0f9G.gif" width="300" height="300" />
 
 - Animação: Fluid Simulation  
-    - <img src="https://i.imgur.com/RLgqNnA.gif" width="300" height="300" />
+    - <img src="https://i.imgur.com/jr4Mrmn.gif" width="300" height="300" />
 
 - Animação: Minesweeper    
     - <img src="https://i.imgur.com/gVEemGr.gif" width="300" height="300" />
