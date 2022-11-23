@@ -61,4 +61,4 @@ Este repositório contempla algumas animações feitas com o P5.js, e com o Proc
     - <img src="https://i.imgur.com/gVEemGr.gif" width="300" height="300" />
 
 - Animação: Double Pendulum    
-    - <img src="https://i.imgur.com/oxczkgG.gif" width="300" height="200" />
+    - <img src="https://i.imgur.com/wXBt3Yh.gif" width="300" height="200" />
