@@ -24,27 +24,41 @@ Este repositório contempla algumas animações feitas com o P5.js, e com o Proc
     - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/hYZPkSBIA
 #
 ## Animações P5
-- Nome da animação: Cube Wave
+- Animação: Cube Wave
     - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/j6UI1Gre-
     - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/j6UI1Gre-
 #
-- Nome da animação: Spiral Circle 1
+- Animação: Spiral Circle 1
     - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/bpiELm8AL
     - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/bpiELm8AL
 #
-- Nome da animação: Spiral Circle 2
+- Animação: Spiral Circle 2
     - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/O0wWzHDFb
     - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/O0wWzHDFb
 #
-- Nome da animação: Spiral Circle 3
+- Animação: Spiral Circle 3
     - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/MI57osMJv
     - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/MI57osMJv
 #
-- Nome da animação: Mouse Follower 1
+- Animação: Mouse Follower 1
     - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/2wMdkbluI
     - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/2wMdkbluI
 #
-- Nome da animação: Mouse Follower 2
+- Animação: Mouse Follower 2
     - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/HpMTLF43M
     - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/HpMTLF43M
 
+
+## Processing
+
+- Animação: Maze Generator/Solver    
+    - <img src="https://i.imgur.com/zQn0f9G.gif" width="300" height="300" />
+
+- Animação: Fluid Simulation  
+    - <img src="https://i.imgur.com/RLgqNnA.gif" width="300" height="300" />
+
+- Animação: Minesweeper    
+    - <img src="https://i.imgur.com/gVEemGr.gif" width="300" height="300" />
+
+- Animação: Double Pendulum    
+    - <img src="https://i.imgur.com/oxczkgG.gif" width="300" height="200" />
