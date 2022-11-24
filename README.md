@@ -2,63 +2,77 @@
 
 Este repositório contempla algumas animações feitas com o P5.js, e com o Processing (java).
 
-## Jogos P5
-- Nome da animação: Flappy Bird
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/0QUPWiIKd
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/0QUPWiIKd
+## Jogos
+- Jogo: Flappy Bird
+    - Plataforma: p5.js
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/0QUPWiIKd    
+    <img src="https://i.imgur.com/TVbKAzH.gif" width="300" height="300" />
 #
-- Nome da animação: Tetris (versão completa no github)
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/BFJugBWDJ
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/BFJugBWDJ
+- Jogo: Tetris (versão completa no github)
+    - Plataforma: p5.js
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/BFJugBWDJ    
+    <img src="https://i.imgur.com/UHLyPBi.gif" width="250" height="400" />
 #
-- Nome da animação: Aa (mobile game)
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/UG9ineIVi
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/UG9ineIVi
+- Jogo: Aa (mobile game)
+    - Plataforma: p5.js
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/UG9ineIVi    
+    <img src="https://i.imgur.com/mfbzrq3.gif" width="250" height="400" />
 #
-- Nome da animação: Snake
+- Jogo: Snake
+    - Plataforma: p5.js
     - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/ENidFtk32
     - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/ENidFtk32
 #
-- Nome da animação: Pong
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/hYZPkSBIA
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/hYZPkSBIA
+- Jogo: Minesweeper 
+    - Plataforma: Processing   
+    <img src="https://i.imgur.com/gVEemGr.gif" width="300" height="300" />
 #
-## Animações P5
+- Jogo: Pong
+    - Plataforma: p5.js
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/hYZPkSBIA    
+    <img src="https://i.imgur.com/UJshaib.gif" width="400" height="250" />
+#
+## Animações e simulações
+- Animação: Maze Generator/Solver  
+    - Plataforma: Processing  
+    <img src="https://i.imgur.com/zQn0f9G.gif" width="300" height="300" />
+#
+- Animação: Fluid Simulation 
+    - Plataforma: Processing 
+    <img src="https://i.imgur.com/jr4Mrmn.gif" width="300" height="300" />
+#
+- Animação: Double Pendulum  
+    - Plataforma: Processing  
+    <img src="https://i.imgur.com/wXBt3Yh.gif" width="300" height="200" />
+#
 - Animação: Cube Wave
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/j6UI1Gre-
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/j6UI1Gre-
+    - Plataforma: p5.js
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/j6UI1Gre-    
+    <img src="https://i.imgur.com/VW5JuHE.gif" width="300" height="300" />
 #
 - Animação: Spiral Circle 1
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/bpiELm8AL
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/bpiELm8AL
+    - Plataforma: p5.js
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/bpiELm8AL    
+    <img src="https://i.imgur.com/XcSjC3A.gif" width="300" height="300" />
 #
 - Animação: Spiral Circle 2
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/O0wWzHDFb
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/O0wWzHDFb
+    - Plataforma: p5.js
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/O0wWzHDFb    
+    <img src="https://i.imgur.com/35S3Aef.gif" width="300" height="300" />
 #
 - Animação: Spiral Circle 3
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/MI57osMJv
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/MI57osMJv
+    - Plataforma: p5.js
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/MI57osMJv    
+    <img src="https://i.imgur.com/sqDhoni.gif" width="300" height="300" />
 #
 - Animação: Mouse Follower 1
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/2wMdkbluI
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/2wMdkbluI
+    - Plataforma: p5.js
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/2wMdkbluI    
+    <img src="https://i.imgur.com/6W8GYYy.gif" width="300" height="300" />
 #
 - Animação: Mouse Follower 2
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/HpMTLF43M
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/HpMTLF43M
+    - Plataforma: p5.js
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/HpMTLF43M    
+    <img src="https://i.imgur.com/xJq8XTj.gif" width="300" height="300" />
 
 
-## Processing
-
-- Animação: Maze Generator/Solver    
-    - <img src="https://i.imgur.com/zQn0f9G.gif" width="300" height="300" />
-
-- Animação: Fluid Simulation  
-    - <img src="https://i.imgur.com/jr4Mrmn.gif" width="300" height="300" />
-
-- Animação: Minesweeper    
-    - <img src="https://i.imgur.com/gVEemGr.gif" width="300" height="300" />
-
-- Animação: Double Pendulum    
-    - <img src="https://i.imgur.com/wXBt3Yh.gif" width="300" height="200" />
