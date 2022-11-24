@@ -20,8 +20,8 @@ Este repositório contempla algumas animações feitas com o P5.js, e com o Proc
 #
 - Jogo: Snake
     - Plataforma: p5.js
-    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/ENidFtk32
-    - Link P5 Fullscreen: https://editor.p5js.org/gadsgadsx/full/ENidFtk32
+    - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/ENidFtk32    
+    <img src="https://i.imgur.com/UciqK80.gif" width="300" height="300" />
 #
 - Jogo: Minesweeper 
     - Plataforma: Processing   
