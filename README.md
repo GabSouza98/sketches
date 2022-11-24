@@ -6,7 +6,7 @@ Este repositório contempla algumas animações feitas com o P5.js, e com o Proc
 - Jogo: Flappy Bird
     - Plataforma: p5.js
     - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/0QUPWiIKd    
-    <img src="https://i.imgur.com/TVbKAzH.gif" width="300" height="300" />
+        - <img src="https://i.imgur.com/TVbKAzH.gif" width="300" height="300" />
 #
 - Jogo: Tetris (versão completa no github)
     - Plataforma: p5.js
