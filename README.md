@@ -48,7 +48,7 @@ Este repositório contempla algumas animações feitas com o P5.js, e com o Proc
 - Animação: Cube Wave
     - Plataforma: p5.js
     - Link P5 Editor: https://editor.p5js.org/gadsgadsx/sketches/j6UI1Gre-    
-    <img src="https://i.imgur.com/VW5JuHE.gif" width="300" height="300" />
+    <img src="https://i.imgur.com/EghV1MV.gif" width="300" height="300" />
 #
 - Animação: Spiral Circle 1
     - Plataforma: p5.js
